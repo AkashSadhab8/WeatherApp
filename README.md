@@ -1,5 +1,5 @@
 # WeatherApp
- <img src="weather.png">
+  <img src="Weather.png" alt="" />
 <h4> The basic weather web app is a simple and user-friendly tool that allows users to access up-to-date weather information for a specific area. It provides information on temperature, weather conditions, humidity, and wind speed for the current day.
 
 When the user opens the app, they will be prompted to enter their location or search for a specific area. Once the location is entered, the app will display the current weather information for that area. The temperature will be displayed in Fahrenheit or Celsius, depending on the user's preference.
