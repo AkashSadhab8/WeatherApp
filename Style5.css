@@ -38,6 +38,9 @@ body {
 .search button {
   border: 0;
   outline: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   background: #ebfffc;
   border-radius: 50%;
   width: 60px;
